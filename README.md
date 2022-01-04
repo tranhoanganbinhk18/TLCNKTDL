@@ -7,7 +7,9 @@
  <p> Trần Hoàng An Bình (18133003)</p>
  <p>  Phạm Văn Hùng(18133018)</p>
  <h1>Install</h1>
-   <p>Cài đặt Vm</p>
+ <p>Cài đặt Cài đặt VMware Workstation Pro 16</p>
+ <
+   
      
  
 

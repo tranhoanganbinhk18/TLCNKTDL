@@ -7,8 +7,7 @@
  <p> Trần Hoàng An Bình (18133003)</p>
  <p>  Phạm Văn Hùng(18133018)</p>
  <h2>Install</h2>
- <h2>Nhóm</h2>
-   <h3>Cài đặt Vm</h3>
+   <p>Cài đặt Vm</p>
      
  
 

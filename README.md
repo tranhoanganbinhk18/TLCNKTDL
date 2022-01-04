@@ -51,4 +51,5 @@
 >Edit HUE như Hue.ini
 ### Install Apache HIVE
 
->
+### Install Apache Sqoop
+

@@ -41,4 +41,14 @@
 > vim /etc/hosts
 > 
 >vim /etc/hosts
- 
+### Install Hadoop
+> dowdload https://archive.apache.org/dist/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
+> 
+> Cầu hình theo File hadoop trong Git
+### Install HUE
+>Cài đặt theo link https://docs.gethue.com/administrator/installation/dependencies/
+>
+>Edit HUE như Hue.ini
+### Install Apache HIVE
+
+>

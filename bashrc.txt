@@ -1,0 +1,32 @@
+export HADOOP_HOME=/home/hadoopuser/hadoop #Đường dẫn tới hadoop home
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 # Đường dẫn tới javahome
+export PATH=$PATH:$HADOOP_HOME/bin
+export PATH=$PATH:$HADOOP_HOME/sbin
+export HADOOP_MAPRED_HOME=$HADOOP_HOME
+export HADOOP_COMMON_HOME=$HADOOP_HOME
+export HADOOP_HDFS_HOME=$HADOOP_HOME
+export YARN_HOME=$HADOOP_HOME
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+
+
+export HIVE_HOME=/home/hadoopuser/hive
+export HIVE_CONF_DIR=${HIVE_HOME}/conf
+export PATH=$HIVE_HOME/bin:$PATH
+export CLASSPATH=$CLASSPATH:${HADOOP_HOME}/lib/*:.
+export CLASSPATH=$CLASSPATH:${HIVE_HOME}/lib/*:.
+
+export HUE_HOME=/home/hadoopuser/hue
+export PATH=$PATH:$HUE_HOME/build/env/bin
+
+
+
+export SQOOP_HOME=/home/hadoopuser/sqoop
+export CLASSPATH=$CLASSPATH:${SQOOP_HOME}/lib/*:
+export PATH=$PATH:$SQOOP_HOME/bin
+
+
+
+
+export t_save_fsimage_path=/home/hadoopuser/hadoop/hadoop_data/hdfs/namenode/current/
+export t_fsimage_file=`ls ${t_save_fsimage_path}/fsimage*`

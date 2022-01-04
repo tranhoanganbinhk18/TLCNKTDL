@@ -6,7 +6,7 @@
  <h2>Nhóm</h2>
  <p> Trần Hoàng An Bình (18133003)</p>
  <p>  Phạm Văn Hùng(18133018)</p>
- <h2>Install</h2>
+ <h1>Install</h1>
    <p>Cài đặt Vm</p>
      
  

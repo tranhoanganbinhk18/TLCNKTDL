@@ -50,6 +50,22 @@
 >
 >Edit HUE như Hue.ini
 ### Install Apache HIVE
-
+> dowdload https://dlcdn.apache.org/hive/
+>Fix lại như thử mục HIVE trong git
+>Tham Khảo https://kontext.tech/column/hadoop/561/apache-hive-312-installation-on-linux-guide để biết cài đặt chi tiết
+>
 ### Install Apache Sqoop
-
+>Dowdload sqoop http://archive.apache.org/dist/sqoop/
+>
+>Tham Khảo http://archive.apache.org/dist/sqoop/
+## Run
+### Run Hadoop
+>start-all.sh
+### Run HIVE
+> $HIVE_HOME/bin/hive --service metastore
+>
+> $HIVE_HOME/bin/hive --service hiveserver2
+### Run HUE
+>/home/hadoopuser/hue/build/env/bin/supervisor
+### Run AUTO
+>Run auto tại thư mục auto

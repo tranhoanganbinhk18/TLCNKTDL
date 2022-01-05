@@ -7,7 +7,16 @@
 > Trần Hoàng An Bình (18133003) 
 > 
 > Phạm Văn Hùng(18133018)
-## Install
+# Install
+## Cách 1:
+### Cài đặt Cài đặt VMware Workstation Pro 16
+ > Cài đặt theo theo link https://athena.edu.vn/huong-dan-cai-dat-phan-mem-ao-hoa-vmware-workstation-16-pro 
+ > 
+ > lưu ý: bản 16 pro
+## Tải và sử dụng
+### Tải máy ảo đã có sẵn
+> tải và sữa lại ip https://drive.google.com/drive/folders/16AygrYPyisYMSkW7uEOgfoSq36eSXp0H?usp=sharing
+## Cách 2:
 ### Cài đặt Cài đặt VMware Workstation Pro 16
  > Cài đặt theo theo link https://athena.edu.vn/huong-dan-cai-dat-phan-mem-ao-hoa-vmware-workstation-16-pro 
  > 
